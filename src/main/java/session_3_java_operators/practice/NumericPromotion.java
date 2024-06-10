@@ -1,6 +1,4 @@
-package session_3_java_operators;
-
-import java.sql.SQLOutput;
+package session_3_java_operators.practice;
 
 public class NumericPromotion {
 
