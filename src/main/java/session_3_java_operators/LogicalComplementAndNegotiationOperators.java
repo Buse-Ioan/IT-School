@@ -1,6 +1,7 @@
 package session_3_java_operators;
 
 public class LogicalComplementAndNegotiationOperators {
+
     public static void main(String[] args) {
         boolean isFirstTime = true;
         boolean isRegistered = false;

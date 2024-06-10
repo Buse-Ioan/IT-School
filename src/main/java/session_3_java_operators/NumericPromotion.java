@@ -3,6 +3,7 @@ package session_3_java_operators;
 import java.sql.SQLOutput;
 
 public class NumericPromotion {
+
     public static void main(String[] args) {
 
         short e = 10;

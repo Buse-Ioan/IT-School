@@ -1,6 +1,7 @@
 package session_3_java_operators;
 
 public class Variables {
+
     public static void main(String[] args) {
         int age;  //declaration
         age = 27; //initialization

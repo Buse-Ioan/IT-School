@@ -1,6 +1,7 @@
 package session_3_java_operators;
 
 public class ArithmeticOperations {
+
     public static void main(String[] args) {
         int firstNumber = 10;
         int secondNumber = 2;
@@ -19,7 +20,6 @@ public class ArithmeticOperations {
         System.out.println("Product of number: " + product);
         System.out.println("Division of number: " + division);
         System.out.println("Reminder of number: " + reminder);
-
     }
 }
 
