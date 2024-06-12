@@ -1,5 +1,7 @@
 package session_3_java_operators.challenge;
 
+//2. Using Variables: Write a program that defines four different variables (an integer, a double, a character, and a string), assigns them values, and then prints them out.
+
 public class Challenge_1_2_Using_Variables {
 
     public static void main(String[] args) {
