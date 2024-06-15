@@ -1,4 +1,4 @@
-package session_3_java_operators.challenge;
+package session_1_.challenge;
 
 import java.util.Scanner;
 

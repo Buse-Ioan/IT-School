@@ -1,4 +1,4 @@
-package session_3_java_operators.challenge;
+package session_1_.challenge;
 
 // 1. Simple Output Program: Write a program that prints your name, age, and favorite color on three separate lines.
 

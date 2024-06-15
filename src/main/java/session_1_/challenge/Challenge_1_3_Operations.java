@@ -1,4 +1,4 @@
-package session_3_java_operators.challenge;
+package session_1_.challenge;
 
 // 3. Operations: Write a program that performs various operations (addition, subtraction, multiplication, division, and modulus) on two numbers. The numbers can be hard-coded into the program. Print the result of each operation.
 
