@@ -1,6 +1,5 @@
 package session_3_java_operators.challenge;
 
-
 //2. Create a Java program where you increment and decrement the same variable. Display the value of the variable after each operation.
 
 public class Challenge_3_2_IncrementDecrement {
