@@ -4,7 +4,7 @@ package session_3_java_operators.challenge;
 
 import java.util.Scanner;
 
-public class Challenge_3_3 {
+public class Challenge_3_3_CheckPositiveNegativeNumber {
     public static void main(String[] args) {
         // Create a Scanner object for input
         Scanner scanner = new Scanner(System.in);
@@ -26,5 +26,5 @@ public class Challenge_3_3 {
 
         // Close the scanner
         scanner.close();
-            }
+    }
 }

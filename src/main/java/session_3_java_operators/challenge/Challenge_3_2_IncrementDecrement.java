@@ -3,9 +3,7 @@ package session_3_java_operators.challenge;
 
 //2. Create a Java program where you increment and decrement the same variable. Display the value of the variable after each operation.
 
-import java.util.Scanner;
-
-public class Challenge_3_2 {
+public class Challenge_3_2_IncrementDecrement {
     public static void main(String[] args) {
         //Define and initialize a variable
         int number = 10;
