@@ -4,7 +4,7 @@ package session_3_java_operators.challenge;
 
 import java.util.Scanner;
 
-public class Challenge_3_9_RectangleArea {
+public class Challenge_9_RectangleArea {
     public static void main(String[] args) {
         // Create a Scanner object to read input
         Scanner scanner = new Scanner(System.in);

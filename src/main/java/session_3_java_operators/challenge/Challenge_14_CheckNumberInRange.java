@@ -4,7 +4,7 @@ package session_3_java_operators.challenge;
 
 import java.util.Scanner;
 
-public class Challenge_3_14_CheckNumberInRange {
+public class Challenge_14_CheckNumberInRange {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

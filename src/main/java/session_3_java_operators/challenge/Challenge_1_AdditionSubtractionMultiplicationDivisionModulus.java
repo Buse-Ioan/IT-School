@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 1. Write a Java program to take two numbers as input and display the result of addition, subtraction, multiplication, division, and modulus.
 
-public class Challenge_3_1_AdditionSubtractionMultiplicationDivisionModulus {
+public class Challenge_1_AdditionSubtractionMultiplicationDivisionModulus {
     public static void main(String[] args) {
         // Create a Scanner object for input
         Scanner scanner = new Scanner(System.in);

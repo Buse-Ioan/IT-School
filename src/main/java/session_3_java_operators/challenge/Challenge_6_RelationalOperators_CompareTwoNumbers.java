@@ -5,7 +5,7 @@ package session_3_java_operators.challenge;
 
 import java.util.Scanner;
 
-public class Challenge_3_6_RelationalOperators_CompareTwoNumbers {
+public class Challenge_6_RelationalOperators_CompareTwoNumbers {
     public static void main(String[] args) {
         // Create a Scanner object to read inputfrom the user
         Scanner scanner = new Scanner(System.in);

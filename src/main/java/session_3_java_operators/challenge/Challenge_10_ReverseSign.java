@@ -4,7 +4,7 @@ package session_3_java_operators.challenge;
 
 import java.util.Scanner;
 
-public class Challenge_3_10_ReverseSign {
+public class Challenge_10_ReverseSign {
     public static void main(String[] args) {
         // Create a Scanner object to read input
         Scanner scanner = new Scanner(System.in);

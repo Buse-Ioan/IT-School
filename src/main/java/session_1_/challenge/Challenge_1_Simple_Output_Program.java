@@ -2,7 +2,7 @@ package session_1_.challenge;
 
 // 1. Simple Output Program: Write a program that prints your name, age, and favorite color on three separate lines.
 
-public class Challenge_1_1_Simple_Output_Program {
+public class Challenge_1_Simple_Output_Program {
 
     public static void main(String[] args) {
         // Define name, age, favorite color

@@ -4,7 +4,7 @@ package session_3_java_operators.challenge;
 
 import java.util.Scanner;
 
-public class Challenge_3_11_BooleanNegation {
+public class Challenge_11_BooleanNegation {
     public static void main(String[] args) {
         // Create a Scanner object to read input
         Scanner scanner = new Scanner(System.in);

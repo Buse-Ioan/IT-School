@@ -2,7 +2,7 @@ package session_3_java_operators.challenge;
 
 import java.util.Scanner;
 
-public class Challenge_3_1_RepetitionIsTheMotherOfSkill {
+public class Challenge_1_RepetitionIsTheMotherOfSkill {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package session_3_java_operators.challenge;
 
 //7. Write a program where you perform operations between an integer and a double. Display the result.
 
-public class Challenge_3_7_IntegerDoubleOperations {
+public class Challenge_7_IntegerDoubleOperations {
     public static void main(String[] args) {
         int integerNumber = 7;
         double doubleNumber = 3.4;

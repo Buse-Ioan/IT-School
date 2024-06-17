@@ -4,7 +4,7 @@ package session_3_java_operators.challenge;
 
 import java.util.Scanner;
 
-public class Challenge_3_3_v2 {
+public class Challenge_3_CheckPositiveNegativeNumber {
     public static void main(String[] args) {
         // Create a Scanner object for input
         Scanner scanner = new Scanner(System.in);
@@ -13,12 +13,17 @@ public class Challenge_3_3_v2 {
         System.out.println("Enter number: ");
         int number = scanner.nextInt();
 
+        //Check if the number is sitive or negative using logical complement operator
+        boolean isNonNegative = number >= 0;
+        boolean isNegative = !isNonNegative;
+
         //Display the result
-        if (number >= 0) {
-            System.out.println("Number is positive");
+        if (isNegative) {
+            System.out.println("The number is negative.");
         } else {
-            System.out.println("Number is negative");
+            System.out.println("The number is positive.");
         }
+
         // Close the scanner
         scanner.close();
     }
