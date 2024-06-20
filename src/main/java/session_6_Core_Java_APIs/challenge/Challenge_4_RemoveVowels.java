@@ -21,6 +21,7 @@ public class Challenge_4_RemoveVowels {
             }
         }
 
+        // Print the result without vowels
         System.out.println("String without vowels: " + result.toString());
     }
 
