@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class Challenge_1_EvenOddChecker {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        scanner.close();
 
         System.out.print("Enter an integer: ");
         int number = scanner.nextInt();
@@ -18,6 +19,5 @@ public class Challenge_1_EvenOddChecker {
         } else {
             System.out.println("Odd");
         }
-        scanner.close();
     }
 }

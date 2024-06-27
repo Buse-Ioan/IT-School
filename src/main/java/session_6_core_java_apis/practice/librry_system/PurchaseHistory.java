@@ -1,4 +1,4 @@
-package session_6_Core_Java_APIs.practice.librry_system;
+package session_6_core_java_apis.practice.librry_system;
 
 import java.util.List;
 

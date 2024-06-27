@@ -1,4 +1,4 @@
-package session_6_Core_Java_APIs.practice;
+package session_6_core_java_apis.practice;
 
 import java.util.ArrayList;
 import java.util.List;

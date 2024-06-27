@@ -1,4 +1,4 @@
-package session_6_Core_Java_APIs.challenge;
+package session_6_core_java_apis.challenge;
 
 //2. Palindrome Checker
 //Description: Write a program that checks whether a given string is a palindrome using the StringBuilder class.

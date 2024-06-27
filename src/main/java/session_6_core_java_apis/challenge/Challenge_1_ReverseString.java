@@ -1,4 +1,4 @@
-package session_6_Core_Java_APIs.challenge;
+package session_6_core_java_apis.challenge;
 
 //1. Reverse a String
 //Description: Use the StringBuilder class to write a program that reverses an input string. For example, the input "hello" should return "olleh".

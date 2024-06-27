@@ -1,4 +1,4 @@
-package session_6_Core_Java_APIs.challenge;
+package session_6_core_java_apis.challenge;
 
 //4. Removing Vowels
 //Description: Create a Java program that uses the StringBuilder class to remove all the vowels from an input string.

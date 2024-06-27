@@ -1,4 +1,4 @@
-package session_6_Core_Java_APIs.challenge;
+package session_6_core_java_apis.challenge;
 
 //5. Word Capitalizer
 //Description: Write a program that capitalizes the first letter of every word in a sentence using the StringBuilder class.

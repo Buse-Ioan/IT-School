@@ -12,6 +12,7 @@ public class Challenge_2_MonthNameFinder {
 
         System.out.print("Enter a number between 1 and 12: ");
         int monthNumber = scanner.nextInt();
+        scanner.close();
 
         String monthName;
         switch (monthNumber) {
@@ -56,7 +57,5 @@ public class Challenge_2_MonthNameFinder {
                 break;
         }
         System.out.println(monthName);
-
-        scanner.close();
     }
 }

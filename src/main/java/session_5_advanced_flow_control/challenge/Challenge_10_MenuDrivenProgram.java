@@ -45,7 +45,6 @@ public class Challenge_10_MenuDrivenProgram {
 
                 default:
                     System.out.println("Invalid choice. Please try again.");
-                    break;
             }
             System.out.println(); // Print a blank line for readability
         }

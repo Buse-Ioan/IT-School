@@ -1,4 +1,4 @@
-package session_6_Core_Java_APIs.challenge;
+package session_6_core_java_apis.challenge;
 
 //3. Concatenate Multiple Strings
 //Description: Given a list of strings, use StringBuilder to concatenate them into a single string efficiently.

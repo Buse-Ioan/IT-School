@@ -1,8 +1,8 @@
-package session_3_java_operators.challenge;
+package session_3_java_operators.challenge_repetition;
 
 import java.util.Scanner;
 
-public class Challenge_1_RepetitionIsTheMotherOfSkill {
+public class Challenge_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

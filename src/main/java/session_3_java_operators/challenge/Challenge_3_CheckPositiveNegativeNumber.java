@@ -13,7 +13,7 @@ public class Challenge_3_CheckPositiveNegativeNumber {
         System.out.println("Enter number: ");
         int number = scanner.nextInt();
 
-        //Check if the number is sitive or negative using logical complement operator
+        //Check if the number is positive or negative using logical complement operator
         boolean isNonNegative = number >= 0;
         boolean isNegative = !isNonNegative;
 
@@ -24,7 +24,6 @@ public class Challenge_3_CheckPositiveNegativeNumber {
             System.out.println("The number is positive.");
         }
 
-        // Close the scanner
         scanner.close();
     }
 }
