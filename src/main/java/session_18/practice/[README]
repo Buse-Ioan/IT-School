@@ -1,0 +1,17 @@
+1.Create a functional interface named Calculator that has a single method named calculate which takes two integers as parameters and returns an integer.
+  Implement this interface using a lambda expression in a way that it performs addition of the two parameters.
+
+2.In this exercise, you will explore the differences and similarities between lambda expressions and anonymous classes.
+  Create a functional interface named GreetingService with a single method greet which takes a String parameter and returns void.
+  Implement this interface first using an anonymous class and then using a lambda expression.
+
+3.For this problem, you need to explore predefined functional interfaces in Java. Utilize Function<T,R> interface from java.util.function package to create a lambda expression that takes a string as input and returns its length.
+  In this problem, use lambda expressions and Stream API to process a list of strings. Create a list of strings and use a lambda expression with the filter and forEach methods of the Stream API to print all the strings that start with the letter "A".
+
+4.In this exercise, you will explore how to chain multiple lambda expressions using default methods in interfaces.
+  Create a functional interface named StringProcessor that has a single abstract method process which takes a String parameter and returns a String.
+  Also, create a default method in the interface that allows two StringProcessors to be chained together.
+  Use this to chain together two lambda expressions: one that converts a string to uppercase and another that removes whitespace from a string.
+
+5.Create a functional interface named NegativeFilter that has a single method named filter which takes a list of integers and returns a list of integers.
+  Implement this interface using a lambda expression that returns a new list containing only the negative numbers from the input list.
