@@ -13,8 +13,6 @@ public abstract class Report {
         this.data = data;
     }
 
-    public abstract void exportToPdf();
-
     //common report behavior
     public abstract void showPreview();
 

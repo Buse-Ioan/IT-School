@@ -9,12 +9,10 @@ public class PdfReport extends Report implements PdfExportable {
     }
 
     @Override
-    public void exportToPdf() {
-        //code goes here
+    public void showPreview() {
     }
 
     @Override
-    public void showPreview() {
-
+    public void exportToPDF() {
     }
 }
