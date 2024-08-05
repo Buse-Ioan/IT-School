@@ -1,4 +1,4 @@
-package session_18.practice;
+package session_18_lambda_expressions_and_functional_interface.practice;
 
 public class StringProcessorPractice {
 
